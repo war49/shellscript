@@ -1,8 +1,10 @@
 #!/bin/bash
 #
-# Hardening tools
-# Suwardi
+# Hardening tools for information collector
+# 
+# Author: Suwardi
 # URL: war49.a0001.net
+# Mail: wardilee@icloud.com
 #
 
 # Petunjuk penggunaan program
